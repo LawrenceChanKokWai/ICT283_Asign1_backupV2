@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1708154943 source:c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\date.cpp
+	"Date.h"
+
+1708154909 c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\date.h
+	<iostream>
+
+1708154968 source:c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\datetest.cpp
+	<iostream>
+	<string>
+	"Date.h"
+
+1708229309 source:c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\time.cpp
+	"Time.h"
+
+1708229228 c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\time.h
+	<iostream>
+	<iomanip>
+
+1708335444 source:c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\measurement.cpp
+	"Measurement.h"
+
+1708335634 c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\measurement.h
+	<cmath>
+
+1708229795 source:c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\windspeed.cpp
+	"WindSpeed.h"
+
+1708229699 c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\windspeed.h
+	<iostream>
+	"Measurement.h"
+
+1708230004 source:c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\temperature.cpp
+	"Temperature.h"
+
+1708229953 c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\temperature.h
+	<iostream>
+	"Measurement.h"
+
+1708230049 source:c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\temperaturetest.cpp
+	<iostream>
+	"Temperature.h"
+
+1708232726 source:c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\solarradiation.cpp
+	"SolarRadiation.h"
+
+1708232565 c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\solarradiation.h
+	<iostream>
+	"Measurement.h"
+
+1708233772 source:c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\windrectype.cpp
+	"WindRecType.h"
+
+1708233629 c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\windrectype.h
+	<iostream>
+	<string>
+	"Date.h"
+	"Time.h"
+	"WindSpeed.h"
+	"SolarRadiation.h"
+	"Temperature.h"
+
+1708236517 source:c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\windrectypetest.cpp
+	<iostream>
+	"WindRecType.h"
+
+1708238702 source:c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\vectortest.cpp
+	<iostream>
+	<typeinfo>
+	"Vector.h"
+
+1708238648 c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\vector.h
+
+1708238916 source:c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\processortest.cpp
+	<iostream>
+	"Processor.h"
+
+1708245676 c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\processor.h
+	<iostream>
+	<fstream>
+	<string>
+	"WindRecType.h"
+	"Vector.h"
+	"Constant.h"
+
+1708413633 c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\constant.h
+	<string>
+
+1708239024 source:c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\processor.cpp
+	"Processor.h"
+
+1708229347 source:c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\timetest.cpp
+	<iostream>
+	<string>
+	"Time.h"
+
+1708243214 source:c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\measurementtest.cpp
+	<iostream>
+	"Measurement.h"
+
+1708229839 source:c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\windspeedtest.cpp
+	<iostream>
+	"WindSpeed.h"
+
+1708233520 source:c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\solarradiationtest.cpp
+	<iostream>
+	"SolarRadiation.h"
+
+1708367396 source:c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\main.cpp
+	<iostream>
+	<fstream>
+	<limits>
+	"Processor.h"
+	"Client.h"
+
+1708367191 source:c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\client.cpp
+	"Client.h"
+
+1708367792 c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\client.h
+	<iostream>
+	<sstream>
+	<iomanip>
+	<conio.h>
+	<cstdlib>
+	"Processor.h"
+	"Constant.h"
+	"MeasurementType.h"
+
+1708394172 c:\users\chankokwai\desktop\ict283_assignmentone_chankokwai_3394804\measurementtype.h
+
